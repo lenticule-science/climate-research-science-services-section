@@ -1,5 +1,5 @@
 {
-  "name": "@emsweb/climate-research-enterprise",
+  "name": "@lenticule-science/climate-research-service",
   "version": "0.1.2",
   "private": true,
   "type": "module",
