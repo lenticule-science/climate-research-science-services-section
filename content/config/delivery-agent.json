@@ -8,7 +8,7 @@
   "agentCard": "content/agent-cards/research-delivery.json",
   "signingKeyDataPath": "data/credentials/research-delivery-agent-card.pkcs8.pem",
   "publicJwks": "content/agent-cards/research-delivery-jwks.json",
-  "signingKid": "climate-research-delivery-ed25519",
+  "signingKid": "climate-research-delivery-ed25519-2026-10-21",
   "algorithm": "EdDSA",
   "customer": "urn:ame:climate-youtube-channel-enterprise"
 }

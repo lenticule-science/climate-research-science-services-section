@@ -2,9 +2,9 @@
   "keys": [
     {
       "crv": "Ed25519",
-      "x": "Pfc_X0xQgErEbVH62nXnSZ4b56X9nfbqIAa5DRK8H9o",
+      "x": "qF_gx88rY1k-D0rN8uhPFRds0d-DNho7Ia7gAKl6tko",
       "kty": "OKP",
-      "kid": "climate-research-delivery-ed25519",
+      "kid": "climate-research-delivery-ed25519-2026-10-21",
       "use": "sig",
       "alg": "EdDSA"
     }
