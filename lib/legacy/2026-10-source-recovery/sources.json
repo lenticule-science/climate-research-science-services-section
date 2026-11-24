@@ -1,0 +1,18 @@
+[
+  {
+    "source": "lenticule-science/climate-research-science-services-section",
+    "ref": "refs/archive/branches/chief-information-officer/sync-20261025",
+    "commit": "83621f8d90d7bb8efb2ee192aec7c1d1bccc9ed1",
+    "reviewedAgainst": "d79033163886696a0f9ab1c918ff919c584c6ef0",
+    "files": [
+      {
+        "path": "content/deployment/systemd-user/emsweb-climate-research-delivery-a2a.service",
+        "mode": "100644",
+        "oid": "f26968e45dcba6242dfffca1e65fc055862562d2",
+        "receiver": "lenticule-science/climate-research-science-services-section",
+        "disposition": "Recovered original source at the listed path",
+        "receivedPath": "lib/legacy/2026-10-source-recovery/lenticule-science/climate-research-science-services-section/content/deployment/systemd-user/emsweb-climate-research-delivery-a2a.service"
+      }
+    ]
+  }
+]
